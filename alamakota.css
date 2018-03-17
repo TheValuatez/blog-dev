@@ -1,9 +1,11 @@
 @font-face {
-font-family: 'alamakota';
-src: url('czcionka.ttf');
+  font-family: 'alamakota';
+  src: url('https://thevaluatez.github.io/blog-dev/czcionka.ttf');
 }
- 
-.czcionka{ 
-color: #FFFFFF;
-font-family: 'alamakota';
+
+div.font {
+  font-family: "alamakota";
+  letter-spacing: 0;
+  color:#930;
+  margin:20px 0;
 }
