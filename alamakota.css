@@ -1,0 +1,9 @@
+@font-face {
+font-family: 'alamakota';
+src: url('czcionka.ttf');
+}
+ 
+.czcionka{ 
+color: #FFFFFF;
+font-family: 'alamakota';
+}
