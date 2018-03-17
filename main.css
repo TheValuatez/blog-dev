@@ -1,4 +1,13 @@
-img#fotografia:hover{
-opacity : 0.70;
-filter : alpha(opacity=70);
+div#fotografia {
+background-image: url("412676179074482176.png");
+background-repeat: no-repeat;
+width: 2000px;
+height: 200px;
+}
+
+div#fotografia:hover {
+background-image: url("412676179074482176.png");
+background-repeat: no-repeat;
+width: 200px;
+height: 200px;
 }
