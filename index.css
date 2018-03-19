@@ -1,0 +1,8 @@
+img #foto {
+background: black;
+opacity: 0.5;
+}
+
+img #foto:hover{
+opacity: 1;
+}
