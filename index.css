@@ -2,6 +2,7 @@ img.dark {
     display: inline-block;
     padding: 0;
 }
+
 img.dark {
     display: inline-block;
     -webkit-transition: all 0.5s linear;
@@ -10,23 +11,24 @@ img.dark {
          -o-transition: all 0.5s linear;
             transition: all 0.5s linear;
 }
+
 img.dark:hover {
     opacity: 0.7;
             
 }
 
-.index3 {
+.dark {
 display: inline-block;
 position: relative;
 z-index: 3;
 }
-
 
 .index2 {
 display: inline-block;
 position: relative;
 z-index: 2;
 }
+
 .index1 {
 display: inline-block;
 position: relative;
