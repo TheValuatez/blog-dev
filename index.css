@@ -15,9 +15,24 @@ img.dark:hover {
             
 }
 
-.dark {
+.index3 {
+display: inline-block;
 position: relative;
 left: 80;
 bottom : 100;
 z-index: 3;
+}
+
+
+.index2 {
+display: inline-block;
+position: relative;
+right: 124;
+bottom : 100;
+z-index: 2;
+}
+.index1 {
+display: inline-block;
+position: relative;
+z-index: 1;
 }
